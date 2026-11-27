@@ -1,7 +1,6 @@
-[rootbyroot_user_guide (1).md](https://github.com/user-attachments/files/35523926/rootbyroot_user_guide.1.md)
 <p align="center">
   <!-- BANNER PLACEHOLDER: Replace src with your RootByRoot banner image path or URL -->
-  <img src="./assets/banner.png" alt="RootByRoot Banner" width="100%" />
+  <img src="./banner.png" alt="RootByRoot Banner" width="100%" />
 </p>
 
 <h1 align="center">RootByRoot</h1>
