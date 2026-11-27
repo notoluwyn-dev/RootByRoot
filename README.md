@@ -53,7 +53,7 @@ Designed like a crisp, dark Linux/CMD terminal window (`#000000` background, mon
 3. Enter your target or file at the prompt and start your session:
 
 ```text
-root@roootbyroot~ [>] Target or file: 192.168.1.10
+root@roootbyroot~ [>] Target or file: example.com
 ```
 
 > **Note:** If you enable WSL-backed tools in your setup, make sure WSL and your configured Linux utilities are available on the host system. Use RootByRoot strictly on systems and networks you own or are authorized to inspect.
