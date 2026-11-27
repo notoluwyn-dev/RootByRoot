@@ -1,6 +1,6 @@
 <p align="center">
   <!-- BANNER PLACEHOLDER: Replace src with your RootByRoot banner image path or URL -->
-  <img src="./banner.png" alt="RootByRoot Banner" width="100%" />
+  <img src="./assets/banner.png" alt="RootByRoot Banner" width="100%" />
 </p>
 
 <h1 align="center">RootByRoot</h1>
